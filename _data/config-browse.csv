@@ -6,3 +6,7 @@ englishfamilyname,,true
 chinesefamilyname,,true
 location,,true
 province,,,
+county,,,
+district,,,
+township,,,
+village,,,
