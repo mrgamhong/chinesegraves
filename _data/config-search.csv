@@ -7,3 +7,7 @@ subject,true,true
 location,true,false
 chinesefamilyname,true,true
 province,true,true
+county,true,true
+district,true,true
+township,true,true
+village,true,true
