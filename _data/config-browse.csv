@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
-subject,,,
+subject,,,true
 englishfamilyname,,true
 chinesefamilyname,,true
 location,,true
