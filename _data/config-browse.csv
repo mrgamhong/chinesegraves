@@ -5,8 +5,8 @@ subject,,,
 englishfamilyname,,true
 chinesefamilyname,,true
 location,,true
-province,,,
-county,,,
-district,,,
-township,,,
-village,,,
+province,,,false,
+county,,,false,
+district,,,false,
+township,,,false,
+village,,,false,
