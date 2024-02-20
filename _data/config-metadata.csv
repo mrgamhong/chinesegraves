@@ -5,8 +5,6 @@ creator,Creator,
 source,Source
 identifier,Source Identifier,,
 type,Type,
-rights,Rights,
-rightsstatement,Rights Statement,,true
 englishfamilyname,Family Name (English),true
 englishgivenname,Given Name (English),
 chinesefamilyname,Family Name (Chinese),true
@@ -30,3 +28,5 @@ latitude,Latitude
 longitude,Longitude
 subject,Subjects,true
 description,Notes,
+rights,Rights,
+rightsstatement,Rights Statement,,true
